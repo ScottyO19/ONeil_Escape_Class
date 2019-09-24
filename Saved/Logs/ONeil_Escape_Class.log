@@ -581,3 +581,204 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.24-18.20.07:184][922]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.09.24-18.20.08:546][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2019.09.24-18.21.37:484][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.31.00:951][820]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.24-18.31.05:495][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.09.24-18.31.35:803][363]UATHelper: Packaging (HTML5): Running AutomationTool...
+[2019.09.24-18.31.36:031][386]UATHelper: Packaging (HTML5): Parsing command line: -ScriptsForProject="C:/Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/ONeil_Escape_Class.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/ONeil_Escape_Class.uproject" -cook -stage -archive -archivedirectory="C:/Users/soneil/Documents/Unreal Projects" -package -clientconfig=Development -ue4exe="C:\Program Files\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -prereqs -nodebuginfo -targetplatform=HTML5 -utf8output
+[2019.09.24-18.31.37:262][532]UATHelper: Packaging (HTML5): Setting up ProjectParams for C:\Users\soneil\Documents\Unreal Projects\ONeil_Escape_Class\ONeil_Escape_Class.uproject
+[2019.09.24-18.31.38:950][730]UATHelper: Packaging (HTML5): ********** COOK COMMAND STARTED **********
+[2019.09.24-18.31.38:959][731]UATHelper: Packaging (HTML5): Running UE4Editor Cook for project C:\Users\soneil\Documents\Unreal Projects\ONeil_Escape_Class\ONeil_Escape_Class.uproject
+[2019.09.24-18.31.38:959][731]UATHelper: Packaging (HTML5): ERROR: Cook failed.
+[2019.09.24-18.31.38:959][731]UATHelper: Packaging (HTML5):        (see C:\Users\soneil\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.23\Log.txt for full exception trace)
+[2019.09.24-18.31.38:959][731]PackagingResults: Error: Cook failed.
+[2019.09.24-18.31.39:111][748]UATHelper: Packaging (HTML5): AutomationTool exiting with ExitCode=25 (Error_UnknownCookFailure)
+[2019.09.24-18.31.39:122][749]UATHelper: Packaging (HTML5): BUILD FAILED
+[2019.09.24-18.31.39:130][750]PackagingResults: Error: Unknown Cook Failure
+[2019.09.24-18.32.01:445][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-18.32.01:563][434]LogSlate: Took 0.022698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.09.24-18.38.17:295][502]LogHttp: Warning: 0000023085575940: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-18.38.17:296][502]LogHttp: Warning: 0000023085575940: request failed, libcurl error: 0 (No error)
+[2019.09.24-18.38.17:296][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x230ee213f70 [can pipeline])
+[2019.09.24-18.38.17:296][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2019.09.24-18.38.17:296][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.198.7) port 443 (#12))
+[2019.09.24-18.38.17:296][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 7 (Closing connection 12)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: 0000023085575940: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-18.38.17:297][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-18.43.03:714][862]LogSlate: Window 'Output Log' being destroyed
+[2019.09.24-18.43.03:719][862]LogSlate: Window 'Output Log' being destroyed
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: request failed, libcurl error: 0 (No error)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x230ee213f70 [can pipeline])
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 1 (Re-using existing connection! (#14) with host datarouter.ol.epicgames.com)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.232.220.76) port 443 (#14))
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 7 (Closing connection 14)
+[2019.09.24-18.45.17:303][877]LogHttp: Warning: 000002308854F9C0: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-18.45.17:311][878]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-18.56.17:271][962]LogHttp: Warning: 000002308854DE40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: request failed, libcurl error: 0 (No error)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x230ee213f70 [can pipeline])
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 1 (Re-using existing connection! (#17) with host datarouter.ol.epicgames.com)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.208.48.150) port 443 (#17))
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 7 (Closing connection 17)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: 000002308854DE40: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-18.56.17:272][962]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.01.41:316][806]LogSlate: Took 0.015048 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.24-19.01.42:402][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.02.10:931][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.03.13:778][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.03.17:288][298]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.24-19.03.22:664][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.03.26:567][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.04.15:487][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.09:917][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.11:987][ 40]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.09.24-19.05.18:203][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.32:728][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.05.40:366][424]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.06.04:636][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.06.50:361][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.06.56:435][531]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.24-19.06.56:438][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.06.56:438][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.24-19.06.56:459][531]PIE: New page: PIE session: FirstPersonExampleMap (Sep 24, 2019, 11:06:56 AM)
+[2019.09.24-19.06.56:460][531]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.09.24-19.06.56:461][531]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.06.56:472][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011457s)
+[2019.09.24-19.06.56:474][531]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.24-19.06.56:474][531]LogPlayLevel: PIE: World Init took: (0.001190s)
+[2019.09.24-19.06.56:474][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012973s)
+[2019.09.24-19.06.56:495][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.09.24-19.06.56:527][531]LogInit: XAudio2 using 'C22W (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.24-19.06.56:539][531]LogInit: FAudioDevice initialized.
+[2019.09.24-19.06.56:552][531]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.24-19.06.56:563][531]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.24-15.06.56
+[2019.09.24-19.06.56:563][531]LogWorld: Bringing up level for play took: 0.001902
+[2019.09.24-19.06.56:564][531]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.09.24-19.06.56:593][531]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.09.24-19.06.56:594][531]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.688
+[2019.09.24-19.06.56:594][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.07.14:253][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.07.14:254][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.07.14:254][643]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.07.14:254][643]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-19.07.14:264][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.24-19.07.14:264][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.07.14:286][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.07.14:289][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.09.24-19.07.14:353][649]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: request failed, libcurl error: 0 (No error)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x230ee213f70 [can pipeline])
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 1 (Re-using existing connection! (#21) with host datarouter.ol.epicgames.com)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.54.50) port 443 (#21))
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 7 (Closing connection 21)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: 00000230BFF88E00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.09.24-19.07.17:257][998]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B343281E8-4547-6323-3F75-BC87BDBF6A28%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=c3ccc52148435cc6c75864a1dddd3b07%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.09.24-19.07.55:097][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.07.55:173][524]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.24-19.07.55:176][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.07.55:176][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.24-19.07.55:176][524]PIE: New page: PIE session: FirstPersonExampleMap (Sep 24, 2019, 11:07:55 AM)
+[2019.09.24-19.07.55:176][524]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.07.55:188][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011727s)
+[2019.09.24-19.07.55:189][524]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.24-19.07.55:189][524]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.09.24-19.07.55:189][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012911s)
+[2019.09.24-19.07.55:210][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.09.24-19.07.55:240][524]LogInit: XAudio2 using 'C22W (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.24-19.07.55:250][524]LogInit: FAudioDevice initialized.
+[2019.09.24-19.07.55:254][524]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.24-19.07.55:256][524]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.24-15.07.55
+[2019.09.24-19.07.55:256][524]LogWorld: Bringing up level for play took: 0.001482
+[2019.09.24-19.07.55:256][524]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.09.24-19.07.55:258][524]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.022
+[2019.09.24-19.07.55:258][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.08.01:215][236]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=471.488 Y=-775.721 Z=277.879] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.03:699][534]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=502.816 Y=-689.725 Z=279.833] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.04:041][575]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=503.184 Y=-688.156 Z=281.263] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.04:315][608]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=503.089 Y=-682.646 Z=281.221] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.04:548][636]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=502.592 Y=-681.676 Z=281.846] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.04:714][656]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=500.401 Y=-678.955 Z=282.791] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.04:866][674]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=499.764 Y=-678.362 Z=282.870] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.21:016][612]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=301.238 Y=-210.085 Z=171.212] for [FirstPersonProjectile_C]
+[2019.09.24-19.08.42:256][159]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=296.023 Y=-163.876 Z=152.891] for [FirstPersonProjectile_C]
+[2019.09.24-19.09.21:667][888]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.09.21:667][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.09.21:667][888]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.09.21:668][888]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-19.09.21:675][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.24-19.09.21:675][888]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.09.21:700][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.09.21:702][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.09.24-19.09.21:773][895]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.09.24-19.09.35:597][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.09.49:210][182]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.09.52:140][531]Cmd: DELETE
+[2019.09.24-19.09.52:140][531]Cmd: ACTOR DELETE
+[2019.09.24-19.09.52:142][531]LogEditorActor: Deleted Actor: Brush
+[2019.09.24-19.09.52:162][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.24-19.09.52:164][531]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.24-19.09.54:374][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.09.56:936][102]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.10.08:364][467]Cmd: DELETE
+[2019.09.24-19.10.08:364][467]Cmd: ACTOR DELETE
+[2019.09.24-19.10.08:365][467]LogEditorActor: Deleted Actor: Brush
+[2019.09.24-19.10.08:386][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.09.24-19.10.08:388][467]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.09.24-19.10.10:247][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.10.13:592][ 90]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.10.28:544][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.10.32:098][305]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2019.09.24-19.10.44:332][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.11.03:174][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.11.03:233][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.24-19.11.03:237][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.11.03:237][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.24-19.11.03:237][ 26]PIE: New page: PIE session: FirstPersonExampleMap (Sep 24, 2019, 11:11:03 AM)
+[2019.09.24-19.11.03:237][ 26]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.11.03:250][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012876s)
+[2019.09.24-19.11.03:251][ 26]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.24-19.11.03:251][ 26]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2019.09.24-19.11.03:251][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013887s)
+[2019.09.24-19.11.03:272][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.09.24-19.11.03:303][ 26]LogInit: XAudio2 using 'C22W (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.24-19.11.03:315][ 26]LogInit: FAudioDevice initialized.
+[2019.09.24-19.11.03:325][ 26]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.24-19.11.03:327][ 26]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.24-15.11.03
+[2019.09.24-19.11.03:328][ 26]LogWorld: Bringing up level for play took: 0.001651
+[2019.09.24-19.11.03:328][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.09.24-19.11.03:329][ 26]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.052
+[2019.09.24-19.11.03:330][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.11.22:602][333]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-651.063 Y=-871.257 Z=463.526] for [FirstPersonProjectile_C]
+[2019.09.24-19.11.22:802][357]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-643.027 Y=-836.319 Z=348.544] for [FirstPersonProjectile_C]
+[2019.09.24-19.11.30:745][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.11.30:745][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.11.30:745][310]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.24-19.11.30:745][310]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.24-19.11.30:752][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.24-19.11.30:752][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.24-19.11.30:775][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.24-19.11.30:777][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.09.24-19.11.30:848][317]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.09.24-19.11.37:149][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.24-19.11.37:224][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.09.24-19.11.38:311][ 80]LogSlate: Window 'Save Content' being destroyed
+[2019.09.24-19.11.38:343][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.09.24-19.11.38:465][ 80]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMapCBCD298B4BB93C7417D6FBA94E2912EF.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.09.24-19.11.38:476][ 80]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.152
