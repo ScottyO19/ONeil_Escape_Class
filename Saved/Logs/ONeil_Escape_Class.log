@@ -1061,3 +1061,86 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.09.26-19.02.47:056][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
 [2019.09.26-19.02.47:170][ 80]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMap127710324C72156EDC658380ADFB8F2A.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.09.26-19.02.47:184][ 80]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.147
+[2019.09.26-19.03.40:103][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.26-19.03.40:211][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.09.26-19.03.40:222][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.26-19.03.40:222][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.09.26-19.03.40:222][846]PIE: New page: PIE session: FirstPersonExampleMap (Sep 26, 2019, 11:03:40 AM)
+[2019.09.26-19.03.40:222][846]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.26-19.03.40:239][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017051s)
+[2019.09.26-19.03.40:240][846]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.09.26-19.03.40:240][846]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2019.09.26-19.03.40:240][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018525s)
+[2019.09.26-19.03.40:265][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.09.26-19.03.40:303][846]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.09.26-19.03.40:316][846]LogInit: FAudioDevice initialized.
+[2019.09.26-19.03.40:322][846]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.09.26-19.03.40:325][846]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.09.26-15.03.40
+[2019.09.26-19.03.40:325][846]LogWorld: Bringing up level for play took: 0.002024
+[2019.09.26-19.03.40:325][846]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.09.26-19.03.40:327][846]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.44
+[2019.09.26-19.03.40:327][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.26-19.04.55:017][802]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=990.360 Y=-862.728 Z=251.167] for [FirstPersonProjectile_C]
+[2019.09.26-19.04.55:717][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=766.779 Y=-829.858 Z=218.808] for [FirstPersonProjectile_C]
+[2019.09.26-19.04.55:909][909]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=860.438 Y=-880.229 Z=229.775] for [FirstPersonProjectile_C]
+[2019.09.26-19.05.00:409][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.26-19.05.00:409][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.05.00:409][449]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.09.26-19.05.00:409][449]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.09.26-19.05.00:416][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.09.26-19.05.00:416][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.09.26-19.05.00:439][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.26-19.05.00:441][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.09.26-19.05.00:510][456]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.09.26-19.05.01:851][616]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-19.05.03:495][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.26-19.05.07:079][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2019.09.26-19.05.07:566][295]Cmd: DELETE
+[2019.09.26-19.05.07:566][295]Cmd: ACTOR DELETE
+[2019.09.26-19.05.07:568][295]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.07:585][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.26-19.05.07:585][295]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.09.26-19.05.08:556][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2019.09.26-19.05.09:016][464]Cmd: DELETE
+[2019.09.26-19.05.09:016][464]Cmd: ACTOR DELETE
+[2019.09.26-19.05.09:017][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.09:036][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.09.26-19.05.09:037][464]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.09.26-19.05.11:793][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2019.09.26-19.05.12:374][860]Cmd: DELETE
+[2019.09.26-19.05.12:374][860]Cmd: ACTOR DELETE
+[2019.09.26-19.05.12:376][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.12:395][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2019.09.26-19.05.12:395][860]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.09.26-19.05.13:732][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2019.09.26-19.05.14:227][ 77]Cmd: DELETE
+[2019.09.26-19.05.14:227][ 77]Cmd: ACTOR DELETE
+[2019.09.26-19.05.14:228][ 77]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.14:245][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.09.26-19.05.14:246][ 77]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.09.26-19.05.14:967][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2019.09.26-19.05.15:510][226]Cmd: DELETE
+[2019.09.26-19.05.15:511][226]Cmd: ACTOR DELETE
+[2019.09.26-19.05.15:512][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.15:530][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.09.26-19.05.15:530][226]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.09.26-19.05.16:227][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2019.09.26-19.05.16:805][376]Cmd: DELETE
+[2019.09.26-19.05.16:805][376]Cmd: ACTOR DELETE
+[2019.09.26-19.05.16:806][376]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.16:823][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.09.26-19.05.16:823][376]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.09.26-19.05.20:609][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2019.09.26-19.05.21:204][897]Cmd: DELETE
+[2019.09.26-19.05.21:205][897]Cmd: ACTOR DELETE
+[2019.09.26-19.05.21:206][897]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.09.26-19.05.21:224][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2019.09.26-19.05.21:224][897]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.09.26-19.05.22:571][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2019.09.26-19.06.03:442][927]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-19.06.04:445][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.09.26-19.06.04:451][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.26-19.06.04:476][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.09.26-19.06.04:589][ 45]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMap83E63AA048F95D384A50AF9165413F50.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.09.26-19.06.04:601][ 45]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.147
+[2019.09.26-19.06.07:091][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
