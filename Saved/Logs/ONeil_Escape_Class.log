@@ -1066,3 +1066,126 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.03-18.55.41:294][197]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.10.03-18.55.42:550][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
 [2019.10.03-18.55.47:661][950]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-18.57.01:607][186]LogEditorViewport: Clicking on Actor (LMB): BP_Platform_C (BP_Platform)
+[2019.10.03-18.57.17:562][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.58.11:472][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.58.32:755][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.58.58:517][259]LogEditorViewport: Clicking on Actor (LMB): BP_Platform_C (BP_Platform)
+[2019.10.03-18.59.00:798][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.59.19:212][270]LogEditorViewport: Clicking on Actor (LMB): BP_Platform_C (BP_Platform)
+[2019.10.03-18.59.20:404][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-18.59.47:266][846]BlueprintLog: New page: Compile BP_Platform
+[2019.10.03-18.59.47:538][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.10.03-19.00.03:829][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.00.03:908][266]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.00.03:921][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.00.03:921][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.00.03:921][266]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:00:03 AM)
+[2019.10.03-19.00.03:921][266]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.00.03:945][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023046s)
+[2019.10.03-19.00.03:945][266]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.00.03:946][266]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.10.03-19.00.03:946][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024137s)
+[2019.10.03-19.00.03:988][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.10.03-19.00.04:022][266]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.00.04:036][266]LogInit: FAudioDevice initialized.
+[2019.10.03-19.00.04:040][266]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.00.04:043][266]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.00.04
+[2019.10.03-19.00.04:043][266]LogWorld: Bringing up level for play took: 0.002328
+[2019.10.03-19.00.04:044][266]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.10.03-19.00.04:046][266]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.638
+[2019.10.03-19.00.04:050][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.00.48:970][117]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=754.808 Y=-983.920 Z=229.604] for [FirstPersonProjectile_C]
+[2019.10.03-19.01.23:052][822]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.23:053][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.01.23:053][822]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.01.23:053][822]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.01.23:074][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.01.23:074][822]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.23:119][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.01.23:124][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.10.03-19.01.23:157][823]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.10.03-19.01.26:241][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.01.33:146][859]BlueprintLog: New page: Compile BP_Platform
+[2019.10.03-19.01.33:385][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.10.03-19.01.35:603][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.01.35:719][124]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.01.35:730][124]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.01.35:730][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.01.35:730][124]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:01:35 AM)
+[2019.10.03-19.01.35:730][124]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.01.35:753][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023068s)
+[2019.10.03-19.01.35:754][124]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.01.35:754][124]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2019.10.03-19.01.35:754][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024092s)
+[2019.10.03-19.01.35:799][124]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.03-19.01.35:830][124]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.01.35:840][124]LogInit: FAudioDevice initialized.
+[2019.10.03-19.01.35:849][124]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.01.35:852][124]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.01.35
+[2019.10.03-19.01.35:852][124]LogWorld: Bringing up level for play took: 0.002184
+[2019.10.03-19.01.35:852][124]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.03-19.01.35:854][124]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.828
+[2019.10.03-19.01.35:854][124]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.02.35:155][233]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=708.057 Y=-985.726 Z=246.424] for [FirstPersonProjectile_C]
+[2019.10.03-19.02.35:288][249]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=707.069 Y=-985.614 Z=256.026] for [FirstPersonProjectile_C]
+[2019.10.03-19.02.35:422][265]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=702.731 Y=-983.227 Z=256.542] for [FirstPersonProjectile_C]
+[2019.10.03-19.02.35:555][281]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=695.531 Y=-987.595 Z=259.275] for [FirstPersonProjectile_C]
+[2019.10.03-19.02.35:755][305]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=633.954 Y=-1004.824 Z=271.270] for [FirstPersonProjectile_C]
+[2019.10.03-19.03.16:678][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.03.16:678][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.03.16:678][211]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.03.16:678][211]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.03.16:697][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.03.16:697][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.03.16:741][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.03.16:746][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.10.03-19.03.16:781][213]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.03-19.03.22:416][872]LogEditorViewport: Clicking on Actor (LMB): BP_Platform_C (BP_Platform)
+[2019.10.03-19.03.26:509][358]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.03.27:386][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.03-19.03.27:391][458]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.03.27:436][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.10.03-19.03.27:729][458]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMapF1AB1A7F4310BED5718F3CA75E594822.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.03.27:746][458]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.351
+[2019.10.03-19.03.27:770][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Platform" FILE="../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Platform.uasset" SILENT=true
+[2019.10.03-19.03.27:793][458]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/BP_PlatformEB886CEA407D912BC8AD8F9CBF4312DF.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Platform.uasset'
+[2019.10.03-19.03.31:627][892]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.03.33:225][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Platform" FILE="../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Platform.uasset" SILENT=true
+[2019.10.03-19.03.33:241][ 16]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/BP_PlatformEAB1636C4E06273ADA7559919C4DE49E.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Platform.uasset'
+[2019.10.03-19.03.36:771][347]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.03.37:867][447]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2019.10.03-19.03.42:651][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.03-19.03.42:709][984]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.03-19.03.42:723][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.03.42:724][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.03-19.03.42:724][984]PIE: New page: PIE session: FirstPersonExampleMap (Oct 3, 2019, 11:03:42 AM)
+[2019.10.03-19.03.42:724][984]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.03.42:747][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022955s)
+[2019.10.03-19.03.42:748][984]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.03-19.03.42:748][984]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2019.10.03-19.03.42:748][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023925s)
+[2019.10.03-19.03.42:788][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.03-19.03.42:818][984]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.03-19.03.42:828][984]LogInit: FAudioDevice initialized.
+[2019.10.03-19.03.42:834][984]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.03-19.03.42:837][984]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.03-15.03.42
+[2019.10.03-19.03.42:837][984]LogWorld: Bringing up level for play took: 0.002377
+[2019.10.03-19.03.42:837][984]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.03-19.03.42:839][984]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.159
+[2019.10.03-19.03.42:839][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.04.14:714][806]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.04.14:714][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.04.14:714][806]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.03-19.04.14:714][806]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.03-19.04.14:727][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.03-19.04.14:727][806]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.03-19.04.14:773][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.03-19.04.14:777][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.10.03-19.04.14:817][810]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.03-19.04.28:259][377]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.04.29:218][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.10.03-19.04.29:222][487]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.03-19.04.29:267][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.10.03-19.04.29:560][487]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMap9CF13177401BA10332F499AA23BF57A2.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.03-19.04.29:577][487]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.350
