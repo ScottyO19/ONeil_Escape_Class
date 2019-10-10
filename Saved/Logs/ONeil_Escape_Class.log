@@ -1244,3 +1244,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.10-18.52.19:286][475]LogSlate: FSceneViewport::OnFocusLost() reason 5
 [2019.10.10-18.52.20:285][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2019.10.10-18.52.21:284][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD08ADBB1-4499-DD88-5FEB-07A3E1327C3C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=74d40fe24f68bd5a8892b5817c259a2d%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: request failed, libcurl error: 0 (No error)
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27446a9bf70 [can pipeline])
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.3.123) port 443 (#22))
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.10.10-19.00.36:336][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2019.10.10-19.00.36:337][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.10.10-19.00.36:337][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.10.10-19.00.36:337][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 7 (Closing connection 22)
+[2019.10.10-19.00.36:337][799]LogHttp: Warning: 0000027473A15080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.10.10-19.00.36:345][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD08ADBB1-4499-DD88-5FEB-07A3E1327C3C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=74d40fe24f68bd5a8892b5817c259a2d%7C%7C8f2604d9-b8cf-4081-a21f-a4ebf121803d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.10.10-19.00.59:378][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.06:419][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.12:484][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.15:647][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.21:423][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.32:281][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.37:543][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.43:133][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.47:536][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.01.53:182][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.03:633][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.02.04:422][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.10.10-19.02.04:426][174]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.02.04:456][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.10.10-19.02.04:691][174]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMap399A2DD44AAD4AB3FBF25ABD25E4EDF1.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-19.02.04:708][174]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.277
+[2019.10.10-19.02.05:229][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.02.05:279][234]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.10-19.02.05:286][234]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.02.05:287][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.10-19.02.05:287][234]PIE: New page: PIE session: FirstPersonExampleMap (Oct 10, 2019, 11:02:05 AM)
+[2019.10.10-19.02.05:287][234]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.02.05:316][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029493s)
+[2019.10.10-19.02.05:318][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.10-19.02.05:318][234]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2019.10.10-19.02.05:318][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030844s)
+[2019.10.10-19.02.05:344][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.10-19.02.05:374][234]LogInit: XAudio2 using 'Speakers (USB Audio DAC   )' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.10.10-19.02.05:385][234]LogInit: FAudioDevice initialized.
+[2019.10.10-19.02.05:393][234]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.10.10-19.02.05:396][234]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.10.10-15.02.05
+[2019.10.10-19.02.05:397][234]LogWorld: Bringing up level for play took: 0.002622
+[2019.10.10-19.02.05:397][234]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.10.10-19.02.05:399][234]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.786
+[2019.10.10-19.02.05:399][234]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.51:944][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.51:944][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.03.51:944][ 13]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.10.10-19.03.51:944][ 13]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-19.03.51:954][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.10-19.03.51:954][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.10.10-19.03.51:987][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.10-19.03.51:991][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.10-19.03.52:049][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.10.10-19.03.53:817][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.03.57:193][609]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/BP_Elevator.BP_Elevator
+[2019.10.10-19.04.40:774][762]Cmd: TRANSACTION UNDO
+[2019.10.10-19.04.40:774][762]LogEditorTransaction: Undo Select Interpolation Mode
+[2019.10.10-19.04.44:039][142]Cmd: TRANSACTION UNDO
+[2019.10.10-19.04.44:039][142]LogEditorTransaction: Undo Mouse Drag
+[2019.10.10-19.04.45:620][321]Cmd: TRANSACTION UNDO
+[2019.10.10-19.04.45:620][321]LogEditorTransaction: Undo Mouse Drag
+[2019.10.10-19.04.46:990][483]Cmd: TRANSACTION UNDO
+[2019.10.10-19.04.46:990][483]LogEditorTransaction: Undo Mouse Drag
+[2019.10.10-19.05.38:016][600]BlueprintLog: New page: Compile BP_Elevator
+[2019.10.10-19.05.38:170][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2019.10.10-19.05.38:845][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Elevator" FILE="../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Elevator.uasset" SILENT=true
+[2019.10.10-19.05.38:868][677]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/BP_Elevator4E69E67648DDECE280BD0B9AEBFFF5AF.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/BluePrints/BP_Elevator.uasset'
+[2019.10.10-19.05.39:847][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.10-19.05.39:947][804]LogSlate: Window 'BP_Elevator' being destroyed
+[2019.10.10-19.05.39:950][804]LogSlate: Window 'BP_Elevator' being destroyed
+[2019.10.10-19.05.39:952][804]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.10.10-19.05.41:802][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.05.42:890][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.10.10-19.05.42:895][148]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.10-19.05.42:925][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.10.10-19.05.43:152][148]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonExampleMap6A8EFBD04CD33ADE96A307B2286E6D16.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.10-19.05.43:170][148]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.271
