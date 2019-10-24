@@ -1066,3 +1066,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.24-19.12.07:007][990]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2019.10.24-19.12.07:010][990]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
 [2019.10.24-19.12.10:731][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.24-19.13.17:395][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.24-19.13.33:929][459]LogAssetTools: Warning: Failed to import 'E:\Game 2\Audio\WAV\the-descent-by-kevin-macleod (1)_01.pkf'. Unknown extension 'pkf'.
