@@ -620,3 +620,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.25-15.56.31:379][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
 [2019.10.25-15.56.31:440][536]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2019.10.25-15.56.35:477][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-16.02.30:833][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.10.25-16.02.30:833][125]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2019.10.25-16.02.30:835][125]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.10.25-16.02.30:849][125]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.10.25-16.02.30:849][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.10.25-16.02.30:912][125]LogSavePackage: Moving '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/FirstPersonCharacter_Auto1AD2068BC4A34CB9E59BAEDBDAC724622.tmp' to '../../../../../../Users/soneil/Documents/Unreal Projects/ONeil_Escape_Class/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.10.25-16.02.30:913][125]LogFileHelpers: Auto-saving content packages took 0.079
